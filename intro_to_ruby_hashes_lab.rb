@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  food ={ :poultry => "chicken"}
+  food = { :poultry => "chicken"}
 end
 
 def pioneer
