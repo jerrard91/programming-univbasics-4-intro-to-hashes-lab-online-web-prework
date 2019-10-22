@@ -1,5 +1,5 @@
 def new_hash
-  numbers = []
+  numbers = {}
 end
 
 def my_hash
